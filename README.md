@@ -1,6 +1,6 @@
 <h2> Olá! Seja bem vindo(a) ao meu perfil, eu sou o Luiz Eduardo Kernicki 👋 </h2>
 
-[![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://https://www.linkedin.com/in/luiz-eduardo-kernicki-620804202/)
+[![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luiz-eduardo-kernicki-620804202/)
 
 ![Luiz Kernicki Github stats](https://github-readme-stats.vercel.app/api?username=LuizKernicki&theme=blue-green)
 ![Most Used Langauges](https://github-readme-stats.vercel.app/api/top-langs/?username=LuizKernicki&theme=blue-green)
